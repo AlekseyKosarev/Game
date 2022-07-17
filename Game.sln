@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{83afb055-218c-1018-02a4-41a75b7676ae}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{ce8d7966-7e17-b605-43de-1996c8567d30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{83afb055-218c-1018-02a4-41a75b7676ae}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83afb055-218c-1018-02a4-41a75b7676ae}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ce8d7966-7e17-b605-43de-1996c8567d30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce8d7966-7e17-b605-43de-1996c8567d30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
